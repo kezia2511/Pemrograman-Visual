@@ -1,4 +1,4 @@
-PERTEMUAN 1
+**PERTEMUAN 1**
 Pengenalan Pemrograman Visual
 Konsep Dasar Pemrograman Visual
 
@@ -19,11 +19,12 @@ Visual Basic, yaitu bahasa pemrograman yang digunakan untuk membuat aplikasi.
 Visual Studio, yaitu lingkungan pengembangan atau IDE untuk merancang tampilan dan menulis kode.
 .NET, yaitu framework yang menyediakan berbagai library untuk membantu pengembangan aplikasi.
 
-Kesimpulan
+**Kesimpulan**
 Pemrograman visual mempermudah proses pembuatan aplikasi karena pengembang dapat merancang tampilan menggunakan komponen visual dan menambahkan logika program sesuai kebutuhan.
 
 
-PERTEMUAN 2
+**PERTEMUAN 2**
+
 Komponen Visual dan Antarmuka Windows Forms
 Eksplorasi Komponen Visual
 Pada pertemuan kedua, materi membahas komponen-komponen visual yang digunakan dalam pembuatan aplikasi Windows Forms. Komponen tersebut digunakan untuk membangun antarmuka atau User Interface agar pengguna dapat berinteraksi dengan aplikasi.
@@ -54,5 +55,5 @@ Click, terjadi ketika komponen diklik.
 TextChanged, terjadi ketika isi teks berubah.
 Event dapat dihubungkan dengan kode agar aplikasi dapat memberikan respons terhadap tindakan pengguna.
 
-Kesimpulan
+**Kesimpulan**
 Windows Forms menggunakan berbagai komponen visual untuk membangun antarmuka aplikasi. Setiap komponen dapat diatur melalui Properties dan diberikan fungsi menggunakan Event sehingga aplikasi dapat berinteraksi dengan pengguna.
